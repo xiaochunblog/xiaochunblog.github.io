@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://serverless-page-bucket-p46p93fr-1255867987.cos-website.ap-hongkong.myqcloud.com</id>
+    <id>https://xiaochunblog.github.io/</id>
     <title>小春博客</title>
-    <updated>2021-08-23T02:23:08.312Z</updated>
+    <updated>2021-08-24T03:12:11.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://serverless-page-bucket-p46p93fr-1255867987.cos-website.ap-hongkong.myqcloud.com"/>
-    <link rel="self" href="https://serverless-page-bucket-p46p93fr-1255867987.cos-website.ap-hongkong.myqcloud.com/atom.xml"/>
+    <link rel="alternate" href="https://xiaochunblog.github.io/"/>
+    <link rel="self" href="https://xiaochunblog.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://serverless-page-bucket-p46p93fr-1255867987.cos-website.ap-hongkong.myqcloud.com/images/avatar.png</logo>
-    <icon>https://serverless-page-bucket-p46p93fr-1255867987.cos-website.ap-hongkong.myqcloud.com/favicon.ico</icon>
+    <logo>https://xiaochunblog.github.io/images/avatar.png</logo>
+    <icon>https://xiaochunblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小春博客</rights>
     <entry>
+        <title type="html"><![CDATA[写篇博客]]></title>
+        <id>https://xiaochunblog.github.io/post/xie-pian-bo-ke/</id>
+        <link href="https://xiaochunblog.github.io/post/xie-pian-bo-ke/">
+        </link>
+        <updated>2021-08-24T03:11:41.000Z</updated>
+        <content type="html"><![CDATA[<p>test<br>
+test<br>
+test</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://serverless-page-bucket-p46p93fr-1255867987.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/</id>
-        <link href="https://serverless-page-bucket-p46p93fr-1255867987.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/">
+        <id>https://xiaochunblog.github.io/post/hello-gridea/</id>
+        <link href="https://xiaochunblog.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
